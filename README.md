@@ -20,7 +20,7 @@ A Flask-based API that allows users to download files from Terabox, a popular fi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Media-Realms/terabox-downloader-api.git
+   git clone https://github.com/MediaRealms-ORG/terabox-downloader-api
    ```
 2. Change to the project directory:
    ```
